@@ -1,5 +1,7 @@
 # Microsoft 365
 
+## Topics Practiced
+
 - Outlook for Microsoft 365: Troubleshooting Outlook using command-line switches and diagnosing common issues
 - Exchange Admin Center: Managing and understanding Microsoft 365 mailboxes, groups, resources, contacts, shared mailboxes, administrative roles, and message tracing
 - Microsoft 365 Add-ins: Troubleshooting Office and Outlook add-ins
