@@ -11,5 +11,5 @@
 - **PDQ Inventory:** Hardware Inventory, Applications. Reports
 - **Action1:** Patch Management, Asset, Reports, Audits Documentation
 - Printer set up. Printer Cloud overview.
-- Spiceworks, Jira Service Management: Creating, assigning, and closing tickets. Add internal notes.
+- **Spiceworks**, **Jira Service Management:** Creating, assigning, and closing tickets. Add internal notes.
 - Delegate control. Account lockout tool.
