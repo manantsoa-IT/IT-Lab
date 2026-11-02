@@ -1,6 +1,6 @@
 # Ticket Documentation
 
-## Commonss Issues & Solutions
+## Common Issues & Solutions
 
 ### Calendar Access  
 
