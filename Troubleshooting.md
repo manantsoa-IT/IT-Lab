@@ -5,15 +5,16 @@
 ### Calendar Access
 
 **Solution:**  
-Approval from the appropriate person  
-Delegation access
+- Approval from the appropriate person  
+- Delegation access
 
 **Procedure:**  
-Outlook -> File -> Acount Settings -> Delegate Access -> Add -> [Name] -> Add -> OK -> [Calendar, Tasks, Inbox, Contacts, Notes] -> OK -> OK
+Outlook → File → Account Settings → Delegate Access → Add → [Name] → Add → OK → [Calendar, Tasks, Inbox, Contacts, Notes] → OK → OK
 
 **Ticket Closure:**  
-Closing Ticket: Screenshot person's mail approval and attach it.
+- Take a screenshot of the person's email approval.
+- Attach the screenshot to the ticket.
 
 ### Monitor Request
 
-Solution:
+**Solution:**  
