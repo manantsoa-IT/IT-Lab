@@ -1,8 +1,6 @@
 # Ticket Documentation
 
-
 ## Problems encountered
-
 
 ### Calendar access
 
