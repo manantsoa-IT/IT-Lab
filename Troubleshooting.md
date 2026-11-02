@@ -1,8 +1,8 @@
 # Ticket Documentation
 
-## Commons Issues & Solutions
+## Commonss Issues & Solutions
 
-### Calendar access
+### Calendar Access
 
 **Solution:**  
 Approval from the appropriate person  
