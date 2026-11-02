@@ -1,6 +1,8 @@
-# Problems encountered
+# Ticket Documentation
 
-# Calendar access
+## Problems encountered
+
+### Calendar access
 
 Solution:
 
@@ -14,6 +16,6 @@ Outlook -> File -> Acount Settings -> Delegate Access -> Add -> [Name] -> Add ->
 
 Closing Ticket: Screenshot person's mail approval and attach it.
 
-# Monitor Request
+### Monitor Request
 
 Solution:
