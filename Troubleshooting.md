@@ -4,16 +4,14 @@
 
 ### Calendar access
 
-**Solution:**
-
-
+**Solution:**  
 Approval from the appropriate person  
 Delegation access
 
-**Procedure:**
+**Procedure:**  
 Outlook -> File -> Acount Settings -> Delegate Access -> Add -> [Name] -> Add -> OK -> [Calendar, Tasks, Inbox, Contacts, Notes] -> OK -> OK
 
-**Ticket Closure:**
+**Ticket Closure:**  
 Closing Ticket: Screenshot person's mail approval and attach it.
 
 ### Monitor Request
