@@ -2,7 +2,7 @@
 
 ## Commonss Issues & Solutions
 
-### <u>Calendar Access</u>
+<u>### Calendar Access</u>  
 
 **Solution:**  
 - Approval from the appropriate person  
