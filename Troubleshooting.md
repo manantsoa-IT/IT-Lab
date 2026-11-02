@@ -4,7 +4,7 @@
 
 ### Calendar access
 
-Solution:
+**Solution:**
 
 
 Approval from the appropriate person  
