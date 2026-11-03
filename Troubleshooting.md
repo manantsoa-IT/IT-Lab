@@ -41,6 +41,7 @@ Outlook → File → Account Settings → Delegate Access → Add → [Name] →
 **Solution:**  
 - Email manager for approval
 - [Date & time]
+- Connect to PC (Local/Remote)
 - Download from official website
 - Run as Admin (IT Credentials)
 - *Alt: Software Deployment*
@@ -67,6 +68,7 @@ Computer Management → Right Click → Open File Location -> Shift + Right Clic
 **Solution:**  
 - Email manager for approval
 - [Date & time]
+- Connect to PC (Local/Remote)
 - Download from official website
 - Run as Admin (IT Credentials)
 - *Alt: Software Deployment*
