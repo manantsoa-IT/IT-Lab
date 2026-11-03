@@ -12,19 +12,20 @@
 Outlook → File → Account Settings → Delegate Access → Add → [Name] → Add → OK → [Calendar, Tasks, Inbox, Contacts, Notes] → OK → OK
 
 **Ticket Closure:**  
-- Take a screenshot of the person's email approval.
-- Attach the screenshot to the ticket.
+- "Approval by [the person]"
+- Attach the email of approval.
+- Tell the person
 
 ### Monitor Request
 
 **Solution:**  
-- Email their manager
-- Get approval
+- Email manager for approval
 - Forward the email to the proper departement/team
 
 **Ticket Closure:**  
 - "monitor has been ordered/sent"
-- Attach email approval
+- Attach email of approval
+- Tell the person
 
 ### File Restore
 
@@ -37,3 +38,28 @@ Outlook → File → Account Settings → Delegate Access → Add → [Name] →
 **Ticket Closure:**  
 - "File has been restored"
 - Tell the person
+
+### Excel Addin Installation
+
+**Solution:**  
+- Email manager for approval
+- Date & time to do it
+- Log off user (not while they're on their computer)
+- Log in as IT account (Admin Rights)
+- *Alt: Software Deployment*
+
+**Ticket Closure:**  
+-Tell the person
+
+### Admin Rights on local pc
+
+**Solution:**  
+- Email manager for approval
+- Computer Management
+
+**Procedure:**
+Computer Management → Right Click → Open File Location -> Shift + Right Click → Run as different user (Admin Credentials) → Local Users and Groups → Groups → Administrators → [Add the person] → OK → Apply → OK
+
+**Ticket Closure:**  
+- "Admin rights has been granted"
+- Attach email of approval                                                                              
