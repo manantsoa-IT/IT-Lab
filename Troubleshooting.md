@@ -10,7 +10,6 @@
 ### Calendar Access  
 
 **Solution:**  
-- Approval from the appropriate person  
 - Delegation access
 
 **Procedure:**  
@@ -19,7 +18,6 @@ Outlook → File → Account Settings → Delegate Access → Add → [Name] →
 ### Monitor Request
 
 **Solution:**  
-- Email manager for approval
 - Forward the email to the proper departement/team
 
 ### File Restore
@@ -33,9 +31,7 @@ Outlook → File → Account Settings → Delegate Access → Add → [Name] →
 ### Excel Addin Installation
 
 **Solution:**  
-- Email manager for approval
 - [Date & time]
-- Connect to PC (Physically/Remotely)
 - Download from official website
 - Run as Admin (IT Credentials)
 - *Alt: Software Deployment*
@@ -43,7 +39,6 @@ Outlook → File → Account Settings → Delegate Access → Add → [Name] →
 ### Admin Rights on local pc
 
 **Solution:**  
-- Email manager for approval
 - Computer Management
 
 **Procedure:**
@@ -51,9 +46,7 @@ Computer Management → Right Click → Open File Location -> Shift + Right Clic
 ### Software Installation on local pc
 
 **Solution:**  
-- Email manager for approval
 - [Date & time]
-- Connect to PC (Physically/Remotely)
 - Download from official website
 - Run as Admin (IT Credentials)
 - *Alt: Software Deployment*
