@@ -40,9 +40,9 @@ Outlook → File → Account Settings → Delegate Access → Add → [Name] →
 
 **Solution:**  
 - Email manager for approval
-- Date & time to do it
-- Log off user (not while they're on their computer)
-- Log in as IT account (Admin Rights)
+- Date & time
+- Download from official website
+- Run as Admin (IT Credentials)
 - *Alt: Software Deployment*
 
 **Ticket Closure:**  
@@ -61,3 +61,12 @@ Computer Management → Right Click → Open File Location -> Shift + Right Clic
 **Ticket Closure:**  
 - "Admin rights has been granted"
 - Attach email of approval                                                                        
+
+### Software Installation on local pc
+
+**Solution:**  
+- Email manager for approval
+- Date & time
+- Download from official website
+- Run as Admin (IT Credentials)
+- *Alt: Software Deployment*
