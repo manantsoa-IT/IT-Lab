@@ -13,7 +13,7 @@ Outlook → File → Account Settings → Delegate Access → Add → [Name] →
 
 **Ticket Closure:**  
 - "Approval by [the person]"
-- Attach the email of approval.
+- Attach the email of approval
 - Tell the person
 
 ### Monitor Request
