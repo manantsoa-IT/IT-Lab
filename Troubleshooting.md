@@ -49,7 +49,7 @@ Outlook → File → Account Settings → Delegate Access → Add → [Name] →
 - *Alt: Software Deployment*
 
 **Ticket Closure:**  
--Tell the person
+- Tell the person
 
 ### Admin Rights on local pc
 
