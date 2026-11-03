@@ -49,6 +49,7 @@ Outlook → File → Account Settings → Delegate Access → Add → [Name] →
 - *Alt: Software Deployment*
 
 **Ticket Closure:**  
+- Attach the email of approval
 - Tell the person
 
 ### Admin Rights on local pc
