@@ -70,3 +70,7 @@ Computer Management → Right Click → Open File Location -> Shift + Right Clic
 - Download from official website
 - Run as Admin (IT Credentials)
 - *Alt: Software Deployment*
+
+**Ticket Closure:**  
+- "[Software] has been installed"
+- Attach the email of approval
