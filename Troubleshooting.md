@@ -14,7 +14,6 @@ Outlook → File → Account Settings → Delegate Access → Add → [Name] →
 **Ticket Closure:**  
 - "Approval by [the person]"
 - Attach the email of approval
-- Tell the person
 
 ### Monitor Request
 
@@ -25,7 +24,6 @@ Outlook → File → Account Settings → Delegate Access → Add → [Name] →
 **Ticket Closure:**  
 - "monitor has been ordered/sent"
 - Attach email of approval
-- Tell the person
 
 ### File Restore
 
@@ -37,7 +35,6 @@ Outlook → File → Account Settings → Delegate Access → Add → [Name] →
 
 **Ticket Closure:**  
 - "File has been restored"
-- Tell the person
 
 ### Excel Addin Installation
 
@@ -51,7 +48,6 @@ Outlook → File → Account Settings → Delegate Access → Add → [Name] →
 **Ticket Closure:**  
 - "Addin has been installed"
 - Attach the email of approval
-- Tell the person
 
 ### Admin Rights on local pc
 
@@ -64,5 +60,4 @@ Computer Management → Right Click → Open File Location -> Shift + Right Clic
 
 **Ticket Closure:**  
 - "Admin rights has been granted"
-- Attach email of approval
-- Tell the person                                                                           
+- Attach email of approval                                                                        
