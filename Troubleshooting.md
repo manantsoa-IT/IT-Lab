@@ -49,6 +49,7 @@ Outlook → File → Account Settings → Delegate Access → Add → [Name] →
 - *Alt: Software Deployment*
 
 **Ticket Closure:**  
+- "Addin has been installed"
 - Attach the email of approval
 - Tell the person
 
@@ -63,4 +64,5 @@ Computer Management → Right Click → Open File Location -> Shift + Right Clic
 
 **Ticket Closure:**  
 - "Admin rights has been granted"
-- Attach email of approval                                                                              
+- Attach email of approval
+- Tell the person                                                                           
