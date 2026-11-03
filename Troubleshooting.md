@@ -2,7 +2,7 @@
 
 ## Common Issues & Solutions
 
-*Always get approval before anything*
+*Always get approval before anything*  
 *Connect to PC physically or remotely*
 
 **Ticket Closure:** *Confirmation + email of approval attached*
