@@ -2,10 +2,10 @@
 
 ## Common Issues & Solutions
 
-Always get approval before anything
-Connect to PC physically or remotely
+*Always get approval before anything*
+*Connect to PC physically or remotely*
 
-Ticket Closure: Confirmation + email of approval attached
+**Ticket Closure:** *Confirmation + email of approval attached*
 
 ### Calendar Access  
 
