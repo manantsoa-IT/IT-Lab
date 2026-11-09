@@ -1,4 +1,4 @@
-## TECHNICAL SKILLS & HANDS-ON LAB EXPERIENCE
+## TECHNICAL SKILLS & HANDS-ON EXPERIENCE
 
 **Windows Server 2022 & Active Directory**
 - Installed and configured VirtualBox and Windows Server 2022 in a virtual lab environment.
