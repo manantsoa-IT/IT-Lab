@@ -1,12 +1,19 @@
-# Microsoft 365
+## MICROSOFT 365 – HANDS-ON LAB EXPERIENCE
 
-- **Outlook Desktop App:** Troubleshooting Outlook using command-line switches and diagnosing common issues
-- **Exchange Admin Center:** Managing and understanding Microsoft 365 mailboxes, groups, resources, contacts, shared mailboxes, administrative roles, and message tracing
-- **Microsoft 365 Add-ins:** Troubleshooting Office and Outlook add-ins
-- **Microsoft 365 Admin Center:** Managing users, assigning licenses, and monitoring service health
-- **SharePoint & Microsoft Teams:** Administration and configuration overview
-- **Outlook for iPhone:** Configuration and troubleshooting overview
-- **Microsoft Purview:** Understanding and configuring Data Loss Prevention (DLP) policies
-- **Microsoft Intune:** Enrollment, configuration profiles, and compliance management overview
-- **Microsoft Defender XDR:** Security dashboard and Secure Score overview
-- **Microsoft Entra ID:** Creating and understanding dynamic membership rules
+**Microsoft 365 Administration**
+- Used the Microsoft 365 Admin Center to manage user accounts, assign licenses, and monitor service health.
+- Explored the Exchange Admin Center (EAC), including mailbox management, distribution groups, resource mailboxes, contacts, shared mailboxes, administrative roles, and message tracing.
+- Explored SharePoint Online and Microsoft Teams administration and configuration.
+
+**Outlook & Office Troubleshooting**
+- Practiced troubleshooting Outlook Desktop issues using command-line switches and diagnosing common application problems.
+- Troubleshot Microsoft Office and Outlook add-in issues.
+- Explored Outlook for iOS configuration and troubleshooting.
+
+**Identity & Access Management**
+- Explored Microsoft Entra ID, including user management and dynamic membership rules for groups.
+- Reviewed Microsoft Intune enrollment, configuration profiles, and device compliance management.
+
+**Security & Compliance**
+- Explored Microsoft Purview and Data Loss Prevention (DLP) policies, including their configuration and purpose.
+- Reviewed Microsoft Defender XDR security dashboard and Microsoft Secure Score.
