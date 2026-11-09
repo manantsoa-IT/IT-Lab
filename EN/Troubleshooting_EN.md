@@ -1,54 +1,18 @@
-# Ticket Documentation
+## IT SUPPORT – TICKET DOCUMENTATION & TROUBLESHOOTING
 
-## Common Issues & Solutions
+**Ticket Management & Documentation**
+- Documented common IT support incidents, troubleshooting procedures, and resolutions.
+- Followed standard IT support procedures, ensuring user approval before performing changes or administrative actions.
+- Practiced connecting to user workstations remotely or physically to investigate and resolve technical issues.
+- Maintained ticket documentation, including resolution details, user confirmation, and approval records.
+- Followed proper ticket closure procedures, ensuring user confirmation and supporting approval documentation were attached.
 
-*Always get approval before anything*  
-*Connect to PC physically or remotely*
+**Common IT Support Scenarios**
+- **Calendar Access:** Configured Outlook Delegate Access to grant users appropriate permissions to calendars and other mailbox components.
+- **Monitor Requests:** Identified and escalated hardware requests to the appropriate department or support team.
+- **File Restoration:** Used Windows Previous Versions to locate and restore files and folders.
+- **Microsoft Excel Add-ins:** Practiced downloading and installing add-ins from official sources using administrative credentials.
+- **Local Administrator Rights:** Used Computer Management and Local Users and Groups to manage local administrator group membership.
+- **Software Installation:** Practiced installing approved software using administrative credentials and explored centralized software deployment as an alternative.
 
-**Ticket Closure:** *Confirmation + email of approval attached*
-
-### Calendar Access  
-
-**Solution:**  
-- Delegation access
-
-**Procedure:**  
-Outlook → File → Account Settings → Delegate Access → Add → [Name] → Add → OK → [Calendar, Tasks, Inbox, Contacts, Notes] → OK → OK
-
-### Monitor Request
-
-**Solution:**  
-- Forward the email to the proper departement/team
-
-### File Restore
-
-**Solution:**  
-- Previous Versions
-
-**Procedure:**  
-[File's original location] → Previous Directory → Right Click on the actual folder → Properties → Previous Versions → Add file back
-
-### Excel Addin Installation
-
-**Solution:**  
-- [Date & time]
-- Download from official website
-- Run as Admin (IT Credentials)
-- *Alt: Software Deployment*
-
-### Admin Rights on local pc
-
-**Solution:**  
-- Computer Management
-
-**Procedure:**
-Computer Management → Right Click → Open File Location -> Shift + Right Click → Run as different user (Admin Credentials) → Local Users and Groups → Groups → Administrators → [Add the person] → OK → Apply → OK                                     
-### Software Installation on local pc
-
-**Solution:**  
-- [Date & time]
-- Download from official website
-- Run as Admin (IT Credentials)
-- *Alt: Software Deployment*
-
-*more incoming ...*
+**more incoming**
