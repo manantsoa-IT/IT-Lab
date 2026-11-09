@@ -1,5 +1,5 @@
 
-## MICROSOFT 365 – EXPÉRIENCE PRATIQUE EN LABORATOIRE
+## MICROSOFT 365 – APERÇU  
 
 **Administration Microsoft 365**
 - Utilisation du Centre d'administration Microsoft 365 pour gérer les comptes utilisateurs, attribuer des licences et surveiller l'état des services.
