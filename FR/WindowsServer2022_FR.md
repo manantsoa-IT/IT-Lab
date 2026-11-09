@@ -1,4 +1,4 @@
-## COMPÉTENCES TECHNIQUES ET EXPÉRIENCE PRATIQUE EN LABORATOIRE ##
+## COMPÉTENCES TECHNIQUES ET EXPÉRIENCE PRATIQUE EN LABORATOIRE
 
 **Windows Server 2022 et Active Directory**
 - Installation et configuration de VirtualBox et Windows Server 2022 dans un environnement de laboratoire virtualisé.
