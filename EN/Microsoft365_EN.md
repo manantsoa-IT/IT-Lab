@@ -1,4 +1,4 @@
-## MICROSOFT 365 – HANDS-ON LAB EXPERIENCE
+## MICROSOFT 365 – OVERVIEW
 
 **Microsoft 365 Administration**
 - Used the Microsoft 365 Admin Center to manage user accounts, assign licenses, and monitor service health.
