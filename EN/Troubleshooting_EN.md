@@ -15,4 +15,4 @@
 - **Local Administrator Rights:** Used Computer Management and Local Users and Groups to manage local administrator group membership.
 - **Software Installation:** Practiced installing approved software using administrative credentials and explored centralized software deployment as an alternative.
 
-**more incoming**
+**more incoming...**
